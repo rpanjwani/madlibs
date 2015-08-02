@@ -7,6 +7,7 @@ Download the folder, go to the root of this folder in a terminal, and run `pytho
 #### TODO
 Currently, this is just a front-end single player game. Following are the features I'd like to add very soon:
 
+- Add some front-end tests
 - Create a webserver that serves the madlib requests
 - Multiplayer on the same computer
 - True multiplayer using websockets
