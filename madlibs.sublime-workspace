@@ -1,0 +1,458 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ansible",
+				"ansible_hostname"
+			],
+			[
+				"post",
+				"postWithSameLink"
+			],
+			[
+				"reco",
+				"recognitionHappened"
+			],
+			[
+				"rec",
+				"recognitionHappened"
+			],
+			[
+				"qs",
+				"qsServerIp"
+			],
+			[
+				"get",
+				"getParameterByName"
+			],
+			[
+				"curre",
+				"currentOpenChannel"
+			],
+			[
+				"gen",
+				"generateRoomLink"
+			],
+			[
+				"current",
+				"currentChannel"
+			],
+			[
+				"load",
+				"loadBalancerIp"
+			],
+			[
+				"conne",
+				"connectedToLb"
+			],
+			[
+				"send",
+				"sendUTF"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"data",
+				"dataChannel"
+			],
+			[
+				"web",
+				"websocket"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/rpanjwani/projects/flocabulary/madlibs"
+	],
+	"file_history":
+	[
+		"/C/Users/rpanjwani/Downloads/Assign3-Solution/WordListNode.java",
+		"/C/Users/rpanjwani/Downloads/Assign3-Solution/WordList.java",
+		"/C/Users/rpanjwani/Downloads/Assign3-Solution/AlphabetStats.java",
+		"/C/Users/rpanjwani/Downloads/Assign3-Solution/A3driver.java",
+		"/C/Users/rpanjwani/Downloads/Assign3-Solution/Anagrammer.java",
+		"/C/Users/rpanjwani/Documents/Assign3-Solution/A3driver.java",
+		"/C/Users/rpanjwani/Documents/Assign3-Solution/WordListNode.java",
+		"/C/Users/rpanjwani/Documents/Assign3-Solution/Anagrammer.java",
+		"/C/Users/rpanjwani/Documents/Assign3-Solution/AlphabetStats.java",
+		"/C/Users/rpanjwani/Desktop/riztest.yml",
+		"/C/Users/rpanjwani/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/rpanjwani/AppData/Roaming/Sublime Text 3/Packages/RemoteEdit-master/RemoteEdit-master/Default (Windows).sublime-keymap",
+		"/C/Users/rpanjwani/AppData/Roaming/Sublime Text 3/Packages/User/RemoteEdit.sublime-settings",
+		"/C/Users/rpanjwani/projects/microscope/lib/router.js",
+		"/C/Users/rpanjwani/projects/microscope/client/views/includes/header.html",
+		"/C/Users/rpanjwani/projects/microscope/client/views/posts/post_submit.html",
+		"/C/Users/rpanjwani/projects/microscope/client/views/posts/post_submit.js",
+		"/C/Users/rpanjwani/projects/microscope/collections/posts.js",
+		"/C/Users/rpanjwani/Downloads/software-install-solution.yaml",
+		"/C/Users/rpanjwani/Downloads/gee-tutorial-solution.yaml",
+		"/C/Users/rpanjwani/projects/microscope/client/views/posts/posts_list.js",
+		"/C/Users/rpanjwani/projects/microscope/client/helpers/config.js",
+		"/C/Users/rpanjwani/projects/microscope/server/publications.js",
+		"/C/Users/rpanjwani/AppData/Roaming/Sublime Text 3/Packages/RemoteEdit/Default (Windows).sublime-keymap",
+		"/C/Users/rpanjwani/projects/microscope/client/views/includes/access_denied.html",
+		"/C/Users/rpanjwani/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/rpanjwani/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/rpanjwani/projects/microscope/client/style.css",
+		"/C/Users/rpanjwani/projects/microscope/client/views/includes/loading.html",
+		"/C/cygwin64/home/rpanjwani/.ssh/ssh/login.css",
+		"/C/cygwin64/home/rpanjwani/.ssh/ssh/login.jsp",
+		"/C/Users/rpanjwani/Downloads/idp-metadata-cetaganda.xml",
+		"/C/Users/rpanjwani/Desktop/savitestbed-metadata.xml",
+		"/C/projects/html/step11.html",
+		"/C/projects/html/style-step11.css",
+		"/C/Users/rpanjwani/Desktop/shib-setup-test1",
+		"/C/Users/rpanjwani/projects/capcast/app/scripts/main.js",
+		"/C/Users/rpanjwani/Desktop/savitestbed-metadata",
+		"/C/Users/rpanjwani/Desktop/savitestbed-config",
+		"/C/cygwin64/home/rpanjwani/projects/anime-tracker/scripts/control.js",
+		"/C/cygwin64/home/rpanjwani/projects/anime-tracker/scripts/cs_checkURL.js",
+		"/C/cygwin64/home/rpanjwani/projects/anime-tracker/scripts/popup.js",
+		"/C/cygwin64/home/rpanjwani/projects/anime-tracker/scripts/rule_engine.js",
+		"/C/Users/rpanjwani/Downloads/portal-tm-sp-metadata.xml",
+		"/C/cygwin64/home/rpanjwani/shib-gee-project-idp-metadata.xml",
+		"/C/Users/rpanjwani/Desktop/openstack-curl-example",
+		"/C/Users/rpanjwani/projects/hello_world/main.rs",
+		"/C/Users/rpanjwani/projects/hello_world/Cargo.toml",
+		"/C/Users/rpanjwani/AppData/Roaming/Skype/My Skype Received Files/server.py",
+		"/C/Users/rpanjwani/Downloads/afashionistasdiarydotcom-wordpress-com-2015-04-15-03_50_25-7pexlsl3ciawo63yx7fpkwen6glw39e8/afashionistasdiarydotcom.wordpress.com-2015-04-15-03_44_30/afashionista039sdiary.wordpress.2015-04-15.001.xml",
+		"/C/Users/rpanjwani/Downloads/wordpress.2015-04-12.xml",
+		"/C/Users/rpanjwani/projects/hello_world/src/Cargo.toml",
+		"/C/Users/rpanjwani/Downloads/afashionista039sdiary.wordpress.2015-04-12.xml",
+		"/C/Users/rpanjwani/Desktop/google-speech-command",
+		"/C/Users/rpanjwani/Documents/csc_105_marking_notes",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/cygwin64/home/rpanjwani/.ssh/known_hosts",
+		"/C/home/rpanjwani/.ssh/known_hosts",
+		"/C/Users/rpanjwani/Downloads/BSTRefBased.java",
+		"/C/users/rpanjwani/google-speech/node-google-speech-api/index.js",
+		"/C/Users/rpanjwani/Downloads/BSTRefBased (1).java",
+		"/C/Users/rpanjwani/node_modules/websocket-over-nodejs/signaler.js",
+		"/C/users/rpanjwani/capcast/signalingserver/signaler.js",
+		"/C/Users/rpanjwani/capcast/signalingserver/signaler.js",
+		"/C/Users/rpanjwani/Downloads/a5/BSTRefBased.java",
+		"/C/Users/rpanjwani/Downloads/a5/TreeException.java",
+		"/C/Users/rpanjwani/Downloads/a5/TreeNode.java",
+		"/C/Users/rpanjwani/Downloads/a5/WordReference.java",
+		"/C/Users/rpanjwani/Downloads/a5/WordRefs.java",
+		"/C/Users/rpanjwani/Downloads/BSTIterator.java",
+		"/C/Users/rpanjwani/Downloads/DrawableBTree.java",
+		"/C/Users/rpanjwani/Downloads/a5/AbstractBinaryTree.java",
+		"/C/Users/rpanjwani/Downloads/a5/BSTIterator.java",
+		"/C/Users/rpanjwani/capCast/app/scripts/main.js",
+		"/C/Users/rpanjwani/capcast/app/index.html",
+		"/C/Users/rpanjwani/capcast/app/styles/main.css",
+		"/C/Users/rpanjwani/capcast/app/scripts/meeting.js",
+		"/C/projects/react-tutorial/index.html",
+		"/C/Users/rpanjwani/Downloads/Infix2Postfix (1).java",
+		"/C/Users/rpanjwani/capcast/app/scripts/main.js",
+		"/C/Users/rpanjwani/Desktop/something.py",
+		"/C/Users/rpanjwani/capcast/turnserver/turnserver.conf",
+		"/C/Users/rpanjwani/Downloads/Infix2Postfix.java",
+		"/C/Users/rpanjwani/capcast/Gruntfile.js",
+		"/C/cygwin64/home/rpanjwani/projects/test/gulpfile.js",
+		"/C/cygwin64/home/rpanjwani/projects/test-aws.js",
+		"/C/cygwin64/home/rpanjwani/.aws/credentials",
+		"/C/Users/rpanjwani/Google Drive/capcast/capcast-credentials.csv",
+		"/C/Users/rpanjwani/Google Drive/UVic/p2p networks/HPL.tex",
+		"/C/Users/rpanjwani/capcast/package.json",
+		"/C/Users/rpanjwani/capcast/dist/index.html",
+		"/C/Users/rpanjwani/Desktop/websocket.html",
+		"/C/Users/rpanjwani/Downloads/IntegerList.java",
+		"/C/Users/rpanjwani/capcast/.gitignore"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"ansible_hostname",
+			"anhsible_hostname",
+			"host",
+			"ansible_ssh_host",
+			"header",
+			"navbar",
+			"shib.savitestbed.ca",
+			"entitydescriptor",
+			"7b:53:69:0e:d7:19:4b:8d:f5:73:f2:8e:67:3e:99:22",
+			"db:9c:c8:ad:de:3c:4c:23:b0:07:3b:a9:31:55:19:dd",
+			"savi.key",
+			"format",
+			"getSpeech",
+			"captions",
+			"localmedia",
+			"meet",
+			".js",
+			"roomId",
+			"onmeeting",
+			"meetingRoomName",
+			"generateroom",
+			"opensignaling",
+			"onmessage",
+			"console",
+			"websockets",
+			"setup",
+			"setsocket",
+			"settimeout",
+			"sendmessage",
+			"settimeout",
+			"websockets",
+			"onmessage",
+			"broadcast",
+			"setup",
+			"room",
+			"signal",
+			"broadcast",
+			"setup",
+			"signal",
+			"broadcast",
+			"initsignaler",
+			"setup",
+			"meet",
+			"join",
+			"sendmessage",
+			"close",
+			"message",
+			"'message'",
+			"message",
+			"open",
+			"onmessage",
+			"push",
+			"onmessage",
+			"signaler",
+			"getSignaler",
+			"signaler",
+			"onopen",
+			"opensignaling",
+			"initws",
+			"onmessage",
+			"signaler",
+			"this.signaler",
+			"signal(",
+			"signaler",
+			"userid",
+			"join",
+			"onuserleft",
+			"userid",
+			"id",
+			"log",
+			"createOffer",
+			"establishdatachannel",
+			"RTCPeerConnection",
+			"iceServers",
+			"turn",
+			"connecting to",
+			"join",
+			"recognition",
+			"first",
+			"console.log",
+			"alert",
+			"captions",
+			"openSignalingChannel",
+			"initSignaler",
+			"Signaler",
+			"signaler",
+			"opensignalingchannel",
+			"signal(",
+			"this.signal",
+			"signal",
+			"socket",
+			"opensignaling",
+			"opensignalingchan",
+			"{\n",
+			"onopen",
+			"opensignalingchannel",
+			"onopen",
+			"onmessage",
+			"serve",
+			"livereload",
+			"entry point",
+			"main.js",
+			"offer",
+			"createAnswer",
+			"createOffer",
+			"createAnswer",
+			"onmessage",
+			"sdp",
+			"createAnswer",
+			"options",
+			"createoffer",
+			"Offer",
+			"options",
+			"option",
+			"createOffer",
+			"Offer",
+			"createOffer",
+			"RTCPeerConnection",
+			"optionalArgument",
+			"RTCPeerConnection",
+			"Offer",
+			"createoffer",
+			"onaddstream",
+			"settimeout",
+			"time",
+			"timeout",
+			"onaddstream",
+			"Offer"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "madlibs.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
