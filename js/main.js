@@ -1,13 +1,16 @@
-/* pattern to extract substrings encompassed in {{ and }} symbols. e.g. {{noun}} */
-var pattern = /\{\{([\s\S]*?)\}\}/g;
+/* pattern to extract substrings encompassed in {{ and }} symbols. e.g. {{noun}} 
+Note: currently this is a string, but should be changed to literal as of ECMA 6 to make
+it more efficient, since this is a constant. Doing so is not supported in previous ECMA versions.*/
+var regexPattern = "\\{\\{([\\s\\S]*?)\\}\\}";
 
 /* Extracts prompts from strings in following format: {{prompt}} */
 function extractPrompts (str) {
 	var resultArray = [];
-	var result = pattern.exec(str);
+	var regex = new RegExp(regexPattern, "g");
+	var result = regex.exec(str);
 	while(result != null){
 		resultArray.push(result[1]);
-	   	var result = pattern.exec(str);
+	   	var result = regex.exec(str);
 	}
 	return resultArray;
 }
@@ -15,7 +18,8 @@ function extractPrompts (str) {
 /*replaces prompts in a str by elements in the responses array in ascending order */
 function replacePromptsWithResponses(str, responses){
 	for(var i=0; i<responses.length; i++){
-		str = str.replace(/\{\{([\s\S]*?)\}\}/, responses[i].value);
+		var regex = new RegExp(regexPattern);
+		str = str.replace(regex, responses[i].value);
 	}
 	return str;
 }
@@ -27,12 +31,12 @@ function getResponses(){
 
 $(document).ready(function(){
 	var lib = "";
-	$.getScript("/js/data.js", function(){
+	$.getScript("js/data.js", function(){
 		lib = getRandomLib();
 		var promptData = extractPrompts(lib);
 		console.log(promptData);
 		var promptList = $('#prompts');
-		$.get('/views/prompt.html', function(template, textStatus, jqXhr) {
+		$.get('views/prompt.html', function(template, textStatus, jqXhr) {
             promptList.append(Mustache.render($(template).filter('#promptTpl').html(), promptData));
         });
 	});
