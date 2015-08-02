@@ -1,5 +1,5 @@
 #Madlibs
-A fun experiment.
+A fun experiment. Hosted here: http://rpanjwani.github.io/madlibs/
 
 #### Install Instructions
 Download the folder, go to the root of this folder in a terminal, and run `python -m SimpleHTTPServer 8888` locally and then point your browser to `localhost:8888`.
