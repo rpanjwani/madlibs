@@ -14,3 +14,6 @@ Currently, this is just a front-end single player game. Following are the featur
 - Account creation (connect with facebook, or some other social media site)
 - Create and store your own madlibs
 - Share your madlib on social media and tag the people you created it with
+
+Copyright © 2015 Riz Panjwani
+
