@@ -1,4 +1,5 @@
 #Madlibs
 A fun experiment.
 
-Download the folder and run `python -m 8888` locally and then point your browser to `localhost:8888`
+## Install Instructions
+Download the folder and run `python -m 8888` locally and then point your browser to `localhost:8888`.
