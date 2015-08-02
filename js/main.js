@@ -36,7 +36,7 @@ $(document).ready(function(){
 		var promptData = extractPrompts(lib);
 		console.log(promptData);
 		var promptList = $('#prompts');
-		$.get('/views/prompt.html', function(template, textStatus, jqXhr) {
+		$.get('views/prompt.html', function(template, textStatus, jqXhr) {
             promptList.append(Mustache.render($(template).filter('#promptTpl').html(), promptData));
         });
 	});
