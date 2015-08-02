@@ -31,7 +31,7 @@ function getResponses(){
 
 $(document).ready(function(){
 	var lib = "";
-	$.getScript("/js/data.js", function(){
+	$.getScript("js/data.js", function(){
 		lib = getRandomLib();
 		var promptData = extractPrompts(lib);
 		console.log(promptData);
