@@ -2,7 +2,7 @@
 A fun experiment.
 
 #### Install Instructions
-Download the folder, go to the root of this folder in a terminal, and run `python -m 8888` locally and then point your browser to `localhost:8888`.
+Download the folder, go to the root of this folder in a terminal, and run `python -m SimpleHTTPServer 8888` locally and then point your browser to `localhost:8888`.
 
 #### TODO
 Currently, this is just a front-end single player game. Following are the features I'd like to add very soon:
